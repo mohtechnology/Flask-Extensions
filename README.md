@@ -45,16 +45,7 @@ Here are the **best VS Code extensions for Flask development**, along with their
 
 ---
 
-### 🔹 **autoDocstring**
-
-**Use:**
-
-* Automatically generates Python docstrings for your functions and methods.<br>
-  ✅ *Helps document your Flask views quickly and properly.*
-
----
-
-### 🔹 **Python Docstring Generator**
+### 🔹 **autoDocstring - Python Docstring Generator**
 
 **Use:**
 
