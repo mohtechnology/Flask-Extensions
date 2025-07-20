@@ -53,3 +53,42 @@ Here are the **best VS Code extensions for Flask development**, along with their
   ✅ *Helps document your Flask views quickly and properly.*
 
 ---
+
+### 🔹 **Python Docstring Generator**
+
+**Use:**
+
+* Creates formatted docstrings (Google, NumPy, or reStructuredText styles).
+  ✅ *Makes your code cleaner and well-documented.*
+
+---
+
+### 🔹 **Docker** *(if you're using Flask with Docker)*
+
+**Use:**
+
+* Manage Docker containers directly from VS Code.
+  ✅ *Essential for building and running containerized Flask apps.*
+
+---
+
+### 🔹 **GitLens**
+
+**Use:**
+
+* Enhances built-in Git support with blame annotations, history, and insights.
+  ✅ *Helps track and manage changes in Flask projects effectively.*
+
+---
+
+### 🔹 **Jupyter** *(Optional, for notebook-based learning)*
+
+**Use:**
+
+* Run and manage Jupyter Notebooks inside VS Code.
+  ✅ *Great if you're prototyping Flask code in notebooks.*
+
+---
+
+Let me know if you'd like a **ready-to-import extension pack** for VS Code or a **Flask dev setup configuration**.
+
