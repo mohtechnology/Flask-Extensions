@@ -89,3 +89,62 @@ Here are the **best VS Code extensions for Flask development**, along with their
   ✅ *Great if you're prototyping Flask code in notebooks.*
 
 ---
+
+## 🎨 **Themes for Flask Developers**
+
+---
+
+### 🎨 **One Dark Pro**
+
+**Use:** A clean, dark theme based on Atom’s One Dark.
+✅ *Reduces eye strain, great for long Flask coding sessions.*
+
+---
+
+### 🎨 **Dracula Official**
+
+**Use:** Stylish dark theme with vibrant colors.
+✅ *Visually appealing and popular among Python/Flask developers.*
+
+---
+
+### 🎨 **Night Owl**
+
+**Use:** A dark theme optimized for readability and accessibility.
+✅ *Perfect for developers who code late at night.*
+
+---
+
+## 🧩 **VS Code Icons**
+
+---
+
+### 🧩 **Material Icon Theme**
+
+**Use:** Changes file and folder icons to better represent project structure.
+✅ *Shows Flask-related files (e.g., `.py`, `.html`, `.env`) with beautiful icons.*
+
+---
+
+### 🧩 **vscode-icons**
+
+**Use:** Another popular icon theme with thousands of file-specific icons.
+✅ *Improves file recognition and navigation in large Flask projects.*
+
+---
+
+## ✅ **Summary Table**
+
+| Extension Name         | Use                                |
+| ---------------------- | ---------------------------------- |
+| Python                 | Core Python & Flask support        |
+| Pylance                | IntelliSense and type checking     |
+| Flask Snippets         | Flask route and view snippets      |
+| Jinja                  | Jinja2 template support            |
+| autoDocstring          | Auto-generate docstrings           |
+| GitLens                | Git history and authorship         |
+| Docker                 | Manage Flask containers            |
+| Material Icon Theme    | Better file/folder icons           |
+| One Dark Pro / Dracula | Developer-friendly dark themes     |
+
+---
