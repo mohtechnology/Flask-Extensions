@@ -89,6 +89,3 @@ Here are the **best VS Code extensions for Flask development**, along with their
   ✅ *Great if you're prototyping Flask code in notebooks.*
 
 ---
-
-Let me know if you'd like a **ready-to-import extension pack** for VS Code or a **Flask dev setup configuration**.
-
